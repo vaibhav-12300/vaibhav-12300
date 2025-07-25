@@ -32,21 +32,36 @@ I enjoy solving complex problems, learning new technologies, and contributing to
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Tech Stack
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&count_private=true)
+### 👨‍💻 Programming & Backend
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![JDBC](https://img.shields.io/badge/-JDBC-003B57?style=flat)
+![Servlets/JSP](https://img.shields.io/badge/-JSP/Servlets-323330?style=flat)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YourUsername&theme=tokyonight)
+### 🛢️ Database & Tools
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FD6C35?style=flat&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
-
-</div>
-
-**Note:** Replace `Yvaibhav-12300` with your actual GitHub username in the URLs above for the stats to display correctly.
+### 🖥️ Frontend & Others
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
 
 ---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VaibhavKumbhar&show_icons=true&theme=github_dark&hide_border=false" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavKumbhar&theme=github-dark&hide_border=false" />
+</p>
+
 
 ## 🎯 Featured Projects
 

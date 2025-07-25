@@ -75,9 +75,9 @@ Java, Swing, JDBC, MySQL
 
 ## 🤝 Let's Connect!
 
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- 📧 **Email:** your.email@gmail.com
-- 💻 **GitHub:** [YourUsername](https://github.com/YourUsername)
+- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/vaibhav-kumbhar-8ab9aa276)
+- 📧 **Email:** vaibhavskumbhar2003@gmail.com
+- 💻 **GitHub:** [YourUsername](https://github.com/vaibhav-12300)
 - 🌐 **Portfolio:** [Your Website](https://yourwebsite.com) *(optional)*
 
 ---

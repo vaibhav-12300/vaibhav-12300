@@ -75,7 +75,7 @@ Java, Swing, JDBC, MySQL
 
 ## 🤝 Let's Connect!
 
-- 💼 **LinkedIn:** [https://linkedin.com/vaibhav-kumbhar-8ab9aa276]
+- 💼 **LinkedIn:** [www.linkedin.com/in/vaibhav-kumbhar-8ab9aa276]
 - 📧 **Email:** vaibhavskumbhar2003@gmail.com
 - 💻 **GitHub:** [https://github.com/vaibhav-1230]
 - 🌐 **Portfolio:** [https://vaibhav-12300.github.io/vaibhav-portfolio]

@@ -9,31 +9,6 @@ I enjoy solving complex problems, learning new technologies, and contributing to
 
 ## 🛠️ Tech Stack & Skills
 
-**Backend Development:**
-- Java ☕
-- Spring Boot 🚀
-- Spring Framework 🌱
-- JSP/Servlets 🌐
-- JDBC 🔗
-
-**Database:**
-- MySQL 🗄️
-
-**Frontend Technologies:**
-- HTML5 📝
-- CSS3 🎨
-- JavaScript ⚡
-- Bootstrap 📱
-- Thymeleaf 🍃
-
-**Tools & Version Control:**
-- Git 📚
-- GitHub 🐙
-
----
-
-## 🚀 Tech Stack
-
 ### 👨‍💻 Programming & Backend
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)

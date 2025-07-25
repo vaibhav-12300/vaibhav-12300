@@ -74,21 +74,11 @@ I enjoy solving complex problems, learning new technologies, and contributing to
 
 [🔗 View Project](https://github.com/YourUsername/student-management-system) | [🚀 Live Demo](your-demo-link)
 
-### 📝 [Student management System]
-**Tech Stack:** Java | JSP/Servlets | JDBC | MySQL
-- Brief description of your second project
-- Key features and functionalities
-- Technologies and concepts implemented
+### 📝 Student management System
+A Swing-based Java app simulating real-world ATM operations like deposit, withdraw, pin change | 
+Java, Swing, JDBC, MySQL 
 
 [🔗 View Project](https://github.com/YourUsername/project-2)
-
-### 🌐 [Project Name 3]
-**Tech Stack:** Spring Boot | REST API | MySQL
-- Brief description of your third project
-- Highlight the main problem it solves
-- Technical achievements and learning outcomes
-
-[🔗 View Project](https://github.com/YourUsername/project-3)
 
 ---
 
